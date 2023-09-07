@@ -3,19 +3,19 @@
 3. distant 
 4. ghost white
 5. August
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid : Water
-12. Adjective : Beautiful
-13. Material : Wood
-14. Activity : swimming
-15. Adverb : slowly
-16. Number: 4
-17. Unit of Time: Minutes
-18. Different Activity: Jumping
-19. Adjective: Colorful
-20. Vehicle: Boat
-21. Your Name: Rutuja
+6. two 
+7. trees
+8. doors
+9. secret
+10. tree room
+11. Water
+12. Beautiful
+13. Wood
+14. swimming
+15. slowly
+16. 4
+17. Minutes
+18. Jumping
+19. Colorful
+20. Boat
+21. Rutuja
